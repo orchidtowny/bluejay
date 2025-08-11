@@ -45,7 +45,7 @@ import SupportBox from '../components/SupportBox.vue'
       <div id="vote" class="pageItemContainer">
         <Heading>Vote for Orchid</Heading>
         <div class="pageItemContent">
-          <p class="pageItemContentItemBody">Temporarially Unavailable</p>
+          <p class="pageItemContentItemBody">Currently Unavailable</p>
         </div>
       </div>
       <!--
