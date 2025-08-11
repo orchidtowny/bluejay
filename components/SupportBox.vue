@@ -3,7 +3,7 @@
         <div class="supportBoxInner">
             <div class="supportBoxContent">
                 <span>Help us pay for the server bills, maintain the server, and develop custom plugins.</span><br>
-                <Button type="sparkles translucent nobottom" href="https://store.orchidmc.me"
+                <Button type="sparkles translucent nobottom" href="https://store.orchidmc.org"
                     style="margin-top: 20px;">Check out the Store</Button>
             </div>
         </div>

@@ -15,7 +15,7 @@ export default {
 
   methods: {
     async getStatus() {
-      const statusapi = `https://api.mcstatus.io/v2/status/java/play.orchidmc.me`
+      const statusapi = `https://api.mcstatus.io/v2/status/java/play.orchidmc.org`
       var response = await (await fetch(statusapi)).json()
       if (response.code === "ECONNREFUSED") {
         this.status = "The server is offline."
@@ -38,10 +38,10 @@ export default {
     <div class="headerContent">
       <Wordmark />
       <div class="headerLinksArea">
-        <NuxtLink class="headerLink" to="https://discord.orchidmc.me">Discord</NuxtLink>
+        <NuxtLink class="headerLink" to="https://discord.orchidmc.org">Discord</NuxtLink>
         <NuxtLink class="headerLink" to="/#vote">Vote</NuxtLink>
         <NuxtLink class="headerLink" to="/apply">Apply</NuxtLink>
-        <NuxtLink class="headerLink" to="https://store.orchidmc.me">Store</NuxtLink>
+        <NuxtLink class="headerLink" to="https://store.orchidmc.org">Store</NuxtLink>
       </div>
       <div class="statusArea">
         <span class="status">{{ status }}</span>

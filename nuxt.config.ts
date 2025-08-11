@@ -7,7 +7,7 @@ export default defineNuxtConfig({
       meta: [
         { charset: 'utf-8' },
         { name: "Orchid Towny" },
-        { hid: 'description', name: 'description', content: 'We’re a community built on the hope to make Minecraft a more accepting and comfortable place.' }
+        { hid: 'description', name: 'description', content: 'We\'re a community built on the hope to make Minecraft a more accepting and comfortable place.' }
       ],
       htmlAttrs: {
         lang: 'en'

@@ -2,26 +2,9 @@
   <div class="footer">
     <div class="footerContent">
       <div class="footerTop">
-        © 2022-2023 Orchid Development &bull; This website is <a class="footerLink"
+        © 2022-2025 Orchid Development &bull; This website is <a class="footerLink"
           href="https://github.com/orchidtowny/bluejay" target="_blank" rel="noopener noreferrer">open source</a> on
-        Github. &bull; play.orchidmc.me
-      </div>
-      <div class="footerBottom">
-        <a class="socialLink slFirst" href="https://discord.orchidmc.me">
-          Discord
-        </a>
-        <span class="socialIcon">&bull;</span>
-        <a class="socialLink" href="https://www.instagram.com/orchidtowny">
-          Instagram
-        </a>
-        <span class="socialIcon">&bull;</span>
-        <a class="socialLink" href="https://www.youtube.com/@orchid-towny">
-          YouTube
-        </a>
-        <span class="socialIcon">&bull;</span>
-        <a class="socialLink" rel="me" href="https://eepy.zone/@orchid">
-          Fediverse
-        </a>
+        Github. &bull; play.orchidmc.org
       </div>
     </div>
   </div>
